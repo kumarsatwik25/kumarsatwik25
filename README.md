@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - linkedin =https://www.linkedin.com/in/satwik-gupta-5b0735228/
-%% Certifications
+- Certifications
 - 💞️ [Machine Learning Specialization.pdf](https://github.com/kumarsatwik25/kumarsatwik25/files/10454189/Machine.Learning.Specialization.pdf)
 - 💞️ [Deep Learning Certificate.pdf](https://github.com/kumarsatwik25/kumarsatwik25/files/10454193/Deep.Learning.Certificate.pdf)
 - 💞️ [python for data science.pdf](https://github.com/kumarsatwik25/kumarsatwik25/files/10454200/python.for.data.science.pdf)
